@@ -3,18 +3,18 @@ https://jamesby99@bitbucket.org/jamesby99/webapp.git
 
 * Jenkins결과
   * pipe로 표현
-  ![sol1](1.png)
+  * ![sol1](1.png)
 
 * Tomcat결과
-  ![sol2](2.png)
+  * ![sol2](2.png)
 
 * 실행결과
-  ![sol2](3.png)
+  * ![sol2](3.png)
 
 * config.xml은 동일파일명으로 rename하여 제출
   * config-mvn-package.xml
   * config-tomcat-deploy.xml
-  
+
 * Source수정
   * index.html수정
     ```
@@ -30,11 +30,11 @@ https://jamesby99@bitbucket.org/jamesby99/webapp.git
     </html>
     ```
     * Jenkins결과
-        ![sol1](4.png)
+      ![sol1](4.png)
 
     * Tomcat결과
-        ![sol2](5.png)
+    * ![sol2](5.png)
 
     * 실행결과
-       ![sol2](6.png)
+    * ![sol2](6.png)
 
